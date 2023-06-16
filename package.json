@@ -1,0 +1,14 @@
+{
+  "name": "aula-17",
+  "version": "1.0.0",
+  "description": "AULA 17 - REQUISIÇÕES COM POST",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
