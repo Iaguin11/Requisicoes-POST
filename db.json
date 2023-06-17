@@ -11,6 +11,18 @@
       "title": "Requisições POST com Javascript",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
       "author": "Isaac"
+    },
+    {
+      "title": "Alguns testes",
+      "author": "Iago",
+      "content": "Fazendo alguns testes.....",
+      "id": 3
+    },
+    {
+      "title": "Thor",
+      "author": "Iago Chris",
+      "content": "Eu sou o Thor",
+      "id": 4
     }
   ]
 }
